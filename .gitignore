@@ -1,0 +1,19 @@
+# Папки с зависимостями
+/node_modules
+/frontend/node_modules
+/backend/node_modules
+
+# Сборка Vite
+/frontend/dist
+
+# Локальные переменные окружения
+.env
+.env.local
+
+# Логи
+*.log
+npm-debug.log*
+
+# Системный мусор
+.DS_Store
+Thumbs.db
